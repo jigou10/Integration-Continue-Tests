@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mahdad.dnt3test.Dnt3TestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.831 s - in com.mahdad.dnt3test.Dnt3TestApplicationTests
