@@ -7,10 +7,10 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 	@RequestMapping("/")
 	public String index() {
-		return "Gretings from spring boot!";
+		return "Gretings from spring boot!!";
 	}
 	
-	@RequestMapping("/hello")
+	@RequestMapping("/")
 	public String hello() {
 		return "Hello word!";
 	}	

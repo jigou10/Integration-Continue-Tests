@@ -9,9 +9,10 @@ class Dnt3TestApplicationTests {
 
 	public static void main(String[] args) {
 		//SpringApplication.run(Dnt3TestApplication.class, args);
-		HelloControllerTest hello=new HelloControllerTest();
-		hello.testHello();
-		hello.testIndex();
+		HelloControllerTest h=new HelloControllerTest();
+		h.testIndex();
+		h.testHello();
+		System.out.println("aaaaaaaa");
 	}
 
 }
